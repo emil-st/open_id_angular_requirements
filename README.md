@@ -38,7 +38,7 @@ Candidates should familiarize themselves with the following topics:
    - Retrieve and securely store the **access token**, **ID token**, and **refresh token** upon successful authorization.
 
 2. **Protected API Access**
-   - Use the **access token** to fetch data from a protected API endpoint.
+   - Use the **access token** to fetch data from a protected API endpoint (https://demo.duendesoftware.com/api/test).
    - Display the retrieved data (e.g., user profile or demo-provided data) in the app.
 
 3. **Token Refresh**
